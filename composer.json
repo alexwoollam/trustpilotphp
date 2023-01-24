@@ -1,5 +1,5 @@
 {
-    "name": "alexwoollam/trustpilot",
+    "name": "alexwoollam/trustpilotphp",
     "description": "PHP library for communication with the Trustpilot API",
     "require": {
         "php": ">=7.3",
